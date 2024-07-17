@@ -17,6 +17,7 @@ def oldestPerson(name_age_dict):
 
 
 print(oldestPerson(name_age))
+print()
 
 
 print("************************************\n")
